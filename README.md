@@ -1,12 +1,12 @@
 [README.md](https://github.com/user-attachments/files/22723315/README.md)
 # Portfólio - Nassitelma Catarino de Assis Ribeiro
  
-Bem-vindo(a) ao meu portfólio profissional! 🌟  
+Bem-vindo(a) ao meu portfólio profissional!  
 Este projeto apresenta minhas habilidades, formações e projetos desenvolvidos na área de **Informática e Sistemas**.
  
 ---
  
-## 👩‍💻 Sobre mim
+##  Sobre mim
 Sou **Técnico de Informática e Sistemas (em formação)**, com interesse em infraestrutura, redes, programação e segurança.  
 Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de TI.
  
