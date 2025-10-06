@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nassitelma Catarino de Assis Ribeiro</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ====== CABEÇALHO ====== -->
+  <header class="site-header">
+    <div class="header-wrapper">
+
+      <!-- Coluna esquerda -->
+      <div class="header-left">
+        <img src="imagens/foto.png" alt="imagens/foto.png" class="foto">
+
+       
+      </div>
+
+      <!-- Coluna direita -->
+      <div class="header-right">
+        <h1>Nassitelma Catarino de Assis Ribeiro</h1>
+        <h2>Técnico de Informática e Sistemas "Concluindo"</h2>
+        <p>
+          Busco um estágio curricular para aplicar e expandir meus conhecimentos em administração de sistemas, redes e segurança. 
+          
+          <div class="links">
+  <a href="mailto:nassitelmaribeiro@gmail.com" class="btn">Email</a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank" class="btn">LinkedIn</a>
+  <a href="https://github.com/nassitelma/Portifolio-Nassitelma" target="_blank" class="btn">GitHub</a>
+</div>
+
+          
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <!-- ====== COMPETÊNCIAS ====== -->
+  <section id="skills" class="section">
+    <div class="container">
+      <h3> Competências Técnicas</h3>
+      <div class="skills-grid">
+        <div>
+          <h4>Infraestrutura / SO</h4>
+          <ul>
+            <li>Windows Server (AD, GPOs)</li>
+            <li>Linux (Ubuntu, Bash Scripting)</li>
+            <li>Virtualização (VMware, VirtualBox)</li>
+          </ul>
+        </div>
+        <div>
+          <h4>Redes / Segurança</h4>
+          <ul>
+            <li>TCP/IP, Roteamento, VLANs</li>
+            <li>Cisco Packet Tracer</li>
+            <li>Firewall Básico</li>
+          </ul>
+        </div>
+        <div>
+          <h4>Programação / BD</h4>
+          <ul>
+            <li>Python (Automação)</li>
+            <li>C, C++</li>
+            <li>Java, Java Script</li>
+            <li>MySQL (Consultas SQL)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====== PROJETOS ====== -->
+  <section id="projects" class="section alt-bg">
+    <div class="container">
+      <h3> Projetos Práticos</h3>
+
+      <div class="project-card">
+        <h4>1. Ambiente de Domínio Simulado</h4>
+        <p class="tag">Infraestrutura | Windows Server</p>
+        <p>
+          Configuração de Active Directory e GPO em rede virtualizada com VMware.
+        </p>
+        <a href="#" class="link-projeto">Ver Documentação</a>
+      </div>
+
+      <div class="project-card">
+        <h4>2. Script de Backup em Python</h4>
+        <p class="tag">Programação | Segurança</p>
+        <p>
+          Script para compactar ficheiros críticos com timestamp e enviar para diretório de backup.
+        </p>
+        <a href="#" class="link-projeto">Ver no GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ====== RODAPÉ ====== -->
+  <footer class="site-footer">
+    <p>&copy; 2025 | Email: 
+      <a href="mailto:nassitelmaribeiro@gmail.com">nassitelmaribeiro@gmail.com</a>
+    </p>
+  </footer>
+
+</body>
